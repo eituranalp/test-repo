@@ -8,4 +8,4 @@ More Text!
 
 ## Changes
 
-1. Open index.html.
+Open index.html.
